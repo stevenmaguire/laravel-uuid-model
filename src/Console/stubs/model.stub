@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use Stevenmaguire\Laravel\UuidModel as Model;
+
+class DummyClass extends Model
+{
+    //
+}
